@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cLZThyDseLzbLp5KKsYRngTzOOCYbwfm0NznSR5qnPO27WeVu4DzHFF8cjeI+g0MTczxiRjl7q5npKSSMioY9g==",
+  "success": true,
+  "projectFilePath": "C:\\xa.Turno\\xa.Turno\\xa.Turno.App\\xa.Turno.App.iOS\\xa.Turno.App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro René González\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Pedro René González\\.nuget\\packages\\xamarin.forms\\4.8.0.1364\\xamarin.forms.4.8.0.1364.nupkg.sha512",
+    "C:\\Users\\Pedro René González\\.nuget\\packages\\xamarin.forms.visual.material\\4.8.0.1364\\xamarin.forms.visual.material.4.8.0.1364.nupkg.sha512",
+    "C:\\Users\\Pedro René González\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

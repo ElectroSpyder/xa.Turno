@@ -1,0 +1,14 @@
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\bin\Debug\netstandard2.0\xa.Turno.App.deps.json
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\bin\Debug\netstandard2.0\xa.Turno.App.dll
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\bin\Debug\netstandard2.0\ref\xa.Turno.App.dll
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\bin\Debug\netstandard2.0\xa.Turno.App.pdb
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\obj\Debug\netstandard2.0\Views\ListadoPage.xaml.g.cs
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\obj\Debug\netstandard2.0\xa.Turno.App.AssemblyInfoInputs.cache
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\obj\Debug\netstandard2.0\xa.Turno.App.AssemblyInfo.cs
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\obj\Debug\netstandard2.0\xa.Turno.App.csproj.CoreCompileInputs.cache
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\obj\Debug\netstandard2.0\xa.Turno.App.dll
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\obj\Debug\netstandard2.0\ref\xa.Turno.App.dll
+C:\xa.Turno\xa.Turno\xa.Turno.App\xa.Turno.App\obj\Debug\netstandard2.0\xa.Turno.App.pdb
